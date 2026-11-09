@@ -1,0 +1,21 @@
+{
+  "name": "regionalimmobilien24",
+  "displayName": "heyRegio",
+  "version": "1.0.0",
+  "description": "Search real estate listings from Regionalimmobilien24 (rent and buy), calculate home-loan financing and book a consultation with a financing advisor.",
+  "author": {
+    "name": "Regionalimmobilien24 GmbH",
+    "email": "info@regionalimmobilien24.de",
+    "url": "https://www.regionalimmobilien24.de/"
+  },
+  "homepage": "https://www.regionalimmobilien24.de/",
+  "keywords": [
+    "real estate",
+    "immobilien",
+    "baufinanzierung",
+    "mortgage",
+    "germany"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "privacyPolicyUrl": "https://www.regionalimmobilien24.de/datenschutz/"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "regionalimmobilien24": {
+      "type": "http",
+      "url": "https://mcp.regionalimmobilien24.de/mcp"
+    }
+  }
+}
